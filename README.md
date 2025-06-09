@@ -1,3 +1,5 @@
+# IF YOU ARE UNABLE TO OPEN ANY FILE, USE THIS DRIVE LINK: https://drive.google.com/drive/folders/1aDD0-Cvo7f9sibbdLRNNoOGi_1xAfvyW?usp=drive_link
+
 # 🍕 Pizza Sales Analysis | Data Analyst Portfolio Project (SQL + Excel)
 
 ## 📊 Project Overview
